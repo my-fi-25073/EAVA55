@@ -1,2 +1,2 @@
-# fi55
-fi55 pcb &amp; qmk firmware
+# EAVA55
+EAVA55 pcb &amp; qmk firmware
